@@ -19,6 +19,8 @@ sites:
     url: http://virtual.fum.edu.co:8081/#/
   - name: Unimonserrate Aulas Virtuales
     url: https://aulasvirtuales.unimonserrate.edu.co
+    expectedStatusCodes:
+      - 200
 
 assignees:
   - ohelitco
