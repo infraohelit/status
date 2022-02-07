@@ -16,6 +16,10 @@ sites:
     url: http://virtual.fum.edu.co:9090/ProgramacionDocente-war/
   - name: Paz y salvos
     url: http://virtual.fum.edu.co:8081/#/
+  - name: Unimonserrate Aulas Virtuales
+    url: https://aulasvirtuales.unimonserrate.edu.co/login/index.php
+  - name: Unimonserrate U Virtual
+    url: https://uvirtual.unimonserrate.edu.co
  
 
 status-website:
