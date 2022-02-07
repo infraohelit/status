@@ -18,9 +18,7 @@ sites:
   - name: Paz y salvos
     url: http://virtual.fum.edu.co:8081/#/
   - name: Unimonserrate Aulas Virtuales
-    url: aulasvirtuales.unimonserrate.edu.co
-  - name: Unimonserrate U Virtual
-    url: https://uvirtual.unimonserrate.edu.co
+    url: https://aulasvirtuales.unimonserrate.edu.co
 
 assignees:
   - ohelitco
