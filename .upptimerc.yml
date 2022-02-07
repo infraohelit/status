@@ -6,10 +6,6 @@ sites:
     url: https://www.unimonserrate.edu.co/
   - name: Biblioteca Digital
     url: https://unimonserrate-library.ohelit.co/
-  - name: Aulas Virtuales
-    url: https://aulasvirtuales.unimonserrate.edu.co/login/index.php
-  - name: U Virtual
-    url: https://uvirtual.unimonserrate.edu.co
   - name: Revistas y publicaciones
     url: http://revistas.unimonserrate.edu.co:8080/index.php
   - name: CAU / CAE
