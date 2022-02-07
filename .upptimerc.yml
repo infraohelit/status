@@ -19,8 +19,7 @@ sites:
     url: http://virtual.fum.edu.co:8081/#/
   - name: Unimonserrate Aulas Virtuales
     url: https://aulasvirtuales.unimonserrate.edu.co
-    expectedStatusCodes:
-      - 200
+    method: POST
 
 assignees:
   - ohelitco
@@ -28,6 +27,7 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  theme: ocean
   cname: estado.unimonserrate.edu.co
   # baseUrl: /your-repo-name
   logoUrl: https://cpincodemar.edu.co/wp-content/uploads/2021/02/unimonserrate.png
