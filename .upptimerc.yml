@@ -1,6 +1,7 @@
 # Change these first
 owner: infraestructuraidt # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
+
 sites:
   - name: Sitio WEB Unimonserrate
     url: https://www.unimonserrate.edu.co/
@@ -17,10 +18,12 @@ sites:
   - name: Paz y salvos
     url: http://virtual.fum.edu.co:8081/#/
   - name: Unimonserrate Aulas Virtuales
-    url: https://aulasvirtuales.unimonserrate.edu.co/login/index.php
+    url: aulasvirtuales.unimonserrate.edu.co
   - name: Unimonserrate U Virtual
     url: https://uvirtual.unimonserrate.edu.co
- 
+
+assignees:
+  - ohelitco
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
