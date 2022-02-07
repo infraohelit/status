@@ -18,8 +18,7 @@ sites:
   - name: Paz y salvos
     url: http://virtual.fum.edu.co:8081/#/
   - name: Unimonserrate Aulas Virtuales
-    url: https://aulasvirtuales.unimonserrate.edu.co
-    method: POST
+    url: https://chat.unimonserrate.edu.co/home
 
 assignees:
   - ohelitco
@@ -30,7 +29,7 @@ status-website:
   theme: ocean
   cname: estado.unimonserrate.edu.co
   # baseUrl: /your-repo-name
-  logoUrl: https://cpincodemar.edu.co/wp-content/uploads/2021/02/unimonserrate.png
+  logoUrl: https://www.unimonserrate.edu.co/wp-content/uploads/2021/08/logo_png-2.png
   name: Status IT services
   introTitle: "Estado de servicios de TI Unimonserrate"
   introMessage: En este sitio encuentras la información de estado actual de todos nuestros servicios WEB públicos
