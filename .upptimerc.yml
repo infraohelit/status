@@ -17,9 +17,17 @@ sites:
     url: http://virtual.fum.edu.co:9090/ProgramacionDocente-war/
   - name: Paz y salvos
     url: http://virtual.fum.edu.co:8081/#/
-  - name: Unimonserrate Aulas Virtuales
+  - name: Chat Unimonserrate
     url: https://chat.unimonserrate.edu.co/home
     __dangerous__insecure: true
+  - name: Aulas virtuales
+    url: https://aulasvirtuales.unimonserrate.edu.co/
+    __dangerous__insecure: true
+  - name: Uvirtual
+    url: https://uvirtual.unimonserrate.edu.co/
+    __dangerous__insecure: true
+  - name: Academusoft
+    url: $SECRET_ACADEMUSOFT
 
 assignees:
   - ohelitco
