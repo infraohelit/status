@@ -28,6 +28,10 @@ sites:
     __dangerous__insecure: true
   - name: Academusoft
     url: $SECRET_ACADEMUSOFT
+  - name: Reportes
+    url: $SECRET_REPORTES
+  - name: Beta
+    url: http://virtual.fum.edu.co:9192/SistemaBeta/
 
 assignees:
   - infraestructuraidt
