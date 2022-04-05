@@ -48,19 +48,19 @@
     "url": "http://revistas.unimonserrate.edu.co:8080/index.php",
     "icon": "https://favicons.githubusercontent.com/revistas.unimonserrate.edu.co",
     "slug": "revistas-y-publicaciones",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 595,
-    "timeDay": 673,
-    "timeWeek": 629,
+    "timeDay": 633,
+    "timeWeek": 625,
     "timeMonth": 592,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2022-04-05": 0
+      "2022-04-05": 13
     }
   },
   {
