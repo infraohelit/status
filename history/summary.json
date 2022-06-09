@@ -330,12 +330,12 @@
     "url": "$SECRET_ACADEMUSOFT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "academusoft",
-    "status": "up",
-    "uptime": "94.10%",
-    "uptimeDay": "91.27%",
+    "status": "down",
+    "uptime": "94.16%",
+    "uptimeDay": "91.24%",
     "uptimeWeek": "91.62%",
     "uptimeMonth": "92.09%",
-    "uptimeYear": "94.10%",
+    "uptimeYear": "94.16%",
     "time": 958,
     "timeDay": 1783,
     "timeWeek": 1161,
@@ -435,8 +435,7 @@
       "2022-03-05": 96,
       "2022-03-04": 104,
       "2022-03-03": 101,
-      "2022-03-02": 101,
-      "2022-03-01": 102
+      "2022-03-02": 101
     }
   },
   {
