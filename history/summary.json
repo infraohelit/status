@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
     "time": 813,
-    "timeDay": 605,
-    "timeWeek": 727,
-    "timeMonth": 819,
-    "timeYear": 825,
+    "timeDay": 874,
+    "timeWeek": 744,
+    "timeMonth": 827,
+    "timeYear": 826,
     "dailyMinutesDown": {
       "2023-04-19": 32,
       "2023-04-06": 19,
@@ -67,18 +67,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library.ohelit.co.ico",
     "slug": "biblioteca-digital",
     "status": "down",
-    "uptime": "97.10%",
+    "uptime": "96.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "74.80%",
-    "uptimeYear": "96.23%",
-    "time": 3835,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 4096,
-    "timeYear": 3830,
+    "uptimeMonth": "72.45%",
+    "uptimeYear": "96.03%",
+    "time": 3828,
+    "timeDay": 522,
+    "timeWeek": 522,
+    "timeMonth": 4002,
+    "timeYear": 3824,
     "dailyMinutesDown": {
-      "2023-06-05": 441,
+      "2023-06-06": 31,
+      "2023-06-05": 1440,
       "2023-06-04": 1440,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
@@ -136,8 +137,7 @@
       "2022-09-07": 24,
       "2022-09-04": 20,
       "2022-07-20": 708,
-      "2022-07-08": 30,
-      "2022-06-06": 19
+      "2022-07-08": 30
     }
   },
   {
@@ -151,10 +151,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.59%",
-    "time": 621,
-    "timeDay": 389,
-    "timeWeek": 380,
-    "timeMonth": 475,
+    "time": 620,
+    "timeDay": 295,
+    "timeWeek": 363,
+    "timeMonth": 468,
     "timeYear": 622,
     "dailyMinutesDown": {
       "2023-05-16": 15,
@@ -181,8 +181,7 @@
       "2022-07-01": 92,
       "2022-06-23": 45,
       "2022-06-21": 47,
-      "2022-06-20": 25,
-      "2022-06-06": 50
+      "2022-06-20": 25
     }
   },
   {
@@ -191,18 +190,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mesadeayuda.unimonserrate.edu.co.ico",
     "slug": "cau-cae",
     "status": "down",
-    "uptime": "97.61%",
+    "uptime": "97.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "74.80%",
-    "uptimeYear": "96.88%",
+    "uptimeMonth": "72.45%",
+    "uptimeYear": "96.69%",
     "time": 688,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 447,
+    "timeMonth": 453,
     "timeYear": 742,
     "dailyMinutesDown": {
-      "2023-06-05": 441,
+      "2023-06-06": 31,
+      "2023-06-05": 1440,
       "2023-06-04": 1440,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
@@ -276,8 +276,7 @@
       "2022-06-23": 45,
       "2022-06-22": 26,
       "2022-06-21": 47,
-      "2022-06-20": 81,
-      "2022-06-06": 18
+      "2022-06-20": 81
     }
   },
   {
@@ -286,16 +285,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/virtual.fum.edu.co.ico",
     "slug": "praxis",
     "status": "up",
-    "uptime": "97.03%",
+    "uptime": "97.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.31%",
     "uptimeYear": "96.47%",
     "time": 608,
-    "timeDay": 236,
-    "timeWeek": 326,
-    "timeMonth": 459,
-    "timeYear": 606,
+    "timeDay": 327,
+    "timeWeek": 316,
+    "timeMonth": 460,
+    "timeYear": 605,
     "dailyMinutesDown": {
       "2023-05-09": 827,
       "2023-05-08": 352,
@@ -340,8 +339,7 @@
       "2022-06-23": 45,
       "2022-06-21": 47,
       "2022-06-20": 107,
-      "2022-06-09": 23,
-      "2022-06-06": 48
+      "2022-06-09": 23
     }
   },
   {
@@ -356,9 +354,9 @@
     "uptimeMonth": "97.31%",
     "uptimeYear": "96.52%",
     "time": 143,
-    "timeDay": 76,
-    "timeWeek": 79,
-    "timeMonth": 122,
+    "timeDay": 71,
+    "timeWeek": 78,
+    "timeMonth": 121,
     "timeYear": 140,
     "dailyMinutesDown": {
       "2023-05-09": 827,
@@ -401,8 +399,7 @@
       "2022-06-23": 45,
       "2022-06-21": 47,
       "2022-06-20": 107,
-      "2022-06-09": 23,
-      "2022-06-06": 48
+      "2022-06-09": 23
     }
   },
   {
@@ -417,9 +414,9 @@
     "uptimeMonth": "97.31%",
     "uptimeYear": "97.44%",
     "time": 314,
-    "timeDay": 161,
-    "timeWeek": 200,
-    "timeMonth": 287,
+    "timeDay": 171,
+    "timeWeek": 185,
+    "timeMonth": 286,
     "timeYear": 324,
     "dailyMinutesDown": {
       "2023-05-09": 827,
@@ -458,8 +455,7 @@
       "2022-06-23": 45,
       "2022-06-21": 47,
       "2022-06-20": 107,
-      "2022-06-09": 23,
-      "2022-06-06": 47
+      "2022-06-09": 23
     }
   },
   {
@@ -468,18 +464,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/chat.unimonserrate.edu.co.ico",
     "slug": "chat-unimonserrate",
     "status": "down",
-    "uptime": "94.94%",
+    "uptime": "94.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "74.80%",
-    "uptimeYear": "93.37%",
-    "time": 1165,
-    "timeDay": 252,
-    "timeWeek": 328,
-    "timeMonth": 678,
-    "timeYear": 1146,
+    "uptimeMonth": "72.45%",
+    "uptimeYear": "93.18%",
+    "time": 1164,
+    "timeDay": 495,
+    "timeWeek": 356,
+    "timeMonth": 674,
+    "timeYear": 1144,
     "dailyMinutesDown": {
-      "2023-06-05": 441,
+      "2023-06-06": 32,
+      "2023-06-05": 1440,
       "2023-06-04": 1440,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
@@ -542,8 +539,7 @@
       "2022-06-22": 26,
       "2022-06-21": 47,
       "2022-06-20": 43,
-      "2022-06-18": 19,
-      "2022-06-06": 47
+      "2022-06-18": 19
     }
   },
   {
@@ -553,14 +549,14 @@
     "slug": "aulas-virtuales",
     "status": "up",
     "uptime": "98.25%",
-    "uptimeDay": "92.36%",
-    "uptimeWeek": "73.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "84.08%",
     "uptimeMonth": "91.80%",
     "uptimeYear": "97.68%",
     "time": 1425,
-    "timeDay": 4279,
-    "timeWeek": 2789,
-    "timeMonth": 1321,
+    "timeDay": 370,
+    "timeWeek": 2569,
+    "timeMonth": 1315,
     "timeYear": 1478,
     "dailyMinutesDown": {
       "2023-06-04": 110,
@@ -661,15 +657,15 @@
     "slug": "uvirtual",
     "status": "up",
     "uptime": "98.41%",
-    "uptimeDay": "97.28%",
-    "uptimeWeek": "75.10%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "85.33%",
     "uptimeMonth": "92.08%",
     "uptimeYear": "97.89%",
     "time": 1215,
-    "timeDay": 4839,
-    "timeWeek": 2096,
-    "timeMonth": 1364,
-    "timeYear": 1281,
+    "timeDay": 617,
+    "timeWeek": 1962,
+    "timeMonth": 1353,
+    "timeYear": 1280,
     "dailyMinutesDown": {
       "2023-06-04": 39,
       "2023-06-01": 45,
@@ -768,15 +764,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "academusoft",
     "status": "up",
-    "uptime": "98.23%",
-    "uptimeDay": "92.65%",
+    "uptime": "98.24%",
+    "uptimeDay": "93.13%",
     "uptimeWeek": "93.23%",
     "uptimeMonth": "98.44%",
     "uptimeYear": "97.67%",
     "time": 846,
-    "timeDay": 806,
-    "timeWeek": 782,
-    "timeMonth": 543,
+    "timeDay": 984,
+    "timeWeek": 775,
+    "timeMonth": 545,
     "timeYear": 814,
     "dailyMinutesDown": {
       "2023-06-05": 99,
@@ -880,18 +876,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "reportes",
     "status": "down",
-    "uptime": "46.50%",
+    "uptime": "46.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "30.53%",
+    "uptimeYear": "30.38%",
     "time": 2969,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2891,
+    "timeYear": 2843,
     "dailyMinutesDown": {
-      "2023-06-05": 442,
+      "2023-06-06": 32,
+      "2023-06-05": 1440,
       "2023-06-04": 1440,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
@@ -1185,8 +1182,7 @@
       "2022-06-21": 47,
       "2022-06-20": 107,
       "2022-06-19": 256,
-      "2022-06-12": 267,
-      "2022-06-06": 31
+      "2022-06-12": 267
     }
   },
   {
@@ -1201,9 +1197,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.18%",
     "time": 449,
-    "timeDay": 486,
-    "timeWeek": 303,
-    "timeMonth": 336,
+    "timeDay": 339,
+    "timeWeek": 314,
+    "timeMonth": 338,
     "timeYear": 448,
     "dailyMinutesDown": {
       "2023-04-14": 94,
@@ -1232,8 +1228,7 @@
       "2022-06-23": 45,
       "2022-06-21": 47,
       "2022-06-20": 107,
-      "2022-06-09": 23,
-      "2022-06-06": 31
+      "2022-06-09": 23
     }
   }
 ]
