@@ -73,7 +73,7 @@
     "timeMonth": 631,
     "timeYear": 3585,
     "dailyMinutesDown": {
-      "2023-07-16": 452,
+      "2023-07-16": 465,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
       "2023-07-13": 1440,
@@ -229,7 +229,7 @@
     "timeMonth": 0,
     "timeYear": 773,
     "dailyMinutesDown": {
-      "2023-07-16": 452,
+      "2023-07-16": 465,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
       "2023-07-13": 1440,
@@ -528,7 +528,7 @@
     "timeMonth": 366,
     "timeYear": 1053,
     "dailyMinutesDown": {
-      "2023-07-16": 452,
+      "2023-07-16": 465,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
       "2023-07-13": 1440,
@@ -630,18 +630,19 @@
     "url": "https://aulasvirtuales.unimonserrate.edu.co/",
     "icon": "https://icons.duckduckgo.com/ip3/aulasvirtuales.unimonserrate.edu.co.ico",
     "slug": "aulas-virtuales",
-    "status": "up",
-    "uptime": "98.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.60%",
+    "status": "down",
+    "uptime": "98.35%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "98.72%",
     "uptimeMonth": "98.67%",
-    "uptimeYear": "97.62%",
-    "time": 1458,
-    "timeDay": 678,
-    "timeWeek": 1807,
-    "timeMonth": 1398,
-    "timeYear": 1510,
+    "uptimeYear": "97.63%",
+    "time": 1457,
+    "timeDay": 484,
+    "timeWeek": 1669,
+    "timeMonth": 1373,
+    "timeYear": 1508,
     "dailyMinutesDown": {
+      "2023-07-16": 0,
       "2023-07-13": 41,
       "2023-07-09": 100,
       "2023-07-02": 100,
@@ -730,8 +731,7 @@
       "2022-08-05": 55,
       "2022-08-01": 88,
       "2022-07-30": 18,
-      "2022-07-29": 108,
-      "2022-07-27": 23
+      "2022-07-29": 108
     }
   },
   {
@@ -975,7 +975,7 @@
     "timeMonth": 0,
     "timeYear": 3087,
     "dailyMinutesDown": {
-      "2023-07-16": 453,
+      "2023-07-16": 465,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
       "2023-07-13": 1440,
