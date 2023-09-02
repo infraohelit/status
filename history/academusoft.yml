@@ -1,7 +1,7 @@
 url: $SECRET_ACADEMUSOFT
-status: up
-code: 200
-responseTime: 423
-lastUpdated: 2023-09-01T23:13:51.406Z
+status: down
+code: 503
+responseTime: 1375
+lastUpdated: 2023-09-02T05:32:36.611Z
 startTime: 2022-02-07T15:01:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
