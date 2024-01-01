@@ -1,7 +1,7 @@
 url: http://virtual.fum.edu.co:9090/Praxis-war/faces/Login.xhtml
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-01T05:17:29.970Z
+status: up
+code: 200
+responseTime: 1438
+lastUpdated: 2024-01-01T07:40:57.977Z
 startTime: 2022-02-07T05:53:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
