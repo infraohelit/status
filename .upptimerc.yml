@@ -5,18 +5,18 @@ repo: status # The name of this repository
 sites:
   - name: Sitio WEB Unimonserrate
     url: https://www.unimonserrate.edu.co/
-  - name: Biblioteca Digital
+  - name: Koha Estudiantes
     url: https://unimonserrate-library.ohelit.co/
+  - name: Koha Administrativos
+    url: https://unimonserrate-library-intra.ohelit.co/
   - name: Revistas y publicaciones
-    url: http://revistas.unimonserrate.edu.co:8080/index.php
+    url: http://revistas.unimonserrate.edu.co/
   - name: CAU / CAE
-    url: http://mesadeayuda.unimonserrate.edu.co:8080/
-  - name: Praxis
-    url: http://virtual.fum.edu.co:9090/Praxis-war/faces/Login.xhtml
-  - name: Alpha
-    url: http://virtual.fum.edu.co:9090/ProgramacionDocente-war/
-  - name: Paz y salvos
-    url: http://virtual.fum.edu.co:8081/#/
+    url: http://mesadeayuda.unimonserrate.edu.co/
+  - name: Zeta
+    url: https://zeta.unimonserrate.edu.co/#/
+  - name: Evaluación Docente
+    url: https://evaluaciondocente.unimonserrate.edu.co/Praxis-war/faces/Login.xhtml
   - name: Chat Unimonserrate
     url: https://chat.unimonserrate.edu.co/home
     __dangerous__insecure: true
@@ -31,7 +31,7 @@ sites:
   - name: Reportes
     url: $SECRET_REPORTES
   - name: Beta
-    url: http://virtual.fum.edu.co:9192/SistemaBeta/
+    url: https://beta.unimonserrate.edu.co/
 
 assignees:
   - infraestructuraidt
