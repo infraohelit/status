@@ -7,8 +7,8 @@ sites:
     url: https://www.unimonserrate.edu.co/
   - name: Olimpo 2.0
     url: https://unimonserrate.ohelit.co/
-  - name: UTM 
-    url: https://170.254.230.5:4443/
+  #- name: UTM 
+   # url: https://170.254.230.5:4443/
   - name: Koha Estudiantes
     url: https://unimonserrate-library.ohelit.co/
   - name: Koha Administrativos
@@ -17,12 +17,12 @@ sites:
     url: http://revistas.unimonserrate.edu.co/
   - name: CAU / CAE
     url: http://mesadeayuda.unimonserrate.edu.co/
-  - name: Zeta
-    url: https://zeta.unimonserrate.edu.co/#/
-  - name: Evaluación Docente
-    url: https://evaluaciondocente.unimonserrate.edu.co/Praxis-war/faces/Login.xhtml
-  - name: Chat Unimonserrate
-    url: https://chat.unimonserrate.edu.co/home
+  #- name: Zeta
+   # url: https://zeta.unimonserrate.edu.co/#/
+  #- name: Evaluación Docente
+   # url: https://evaluaciondocente.unimonserrate.edu.co/Praxis-war/faces/Login.xhtml
+  #- name: Chat Unimonserrate
+   # url: https://chat.unimonserrate.edu.co/home
     __dangerous__insecure: true
   - name: Aulas virtuales
     url: https://aulasvirtuales.unimonserrate.edu.co/
@@ -34,8 +34,8 @@ sites:
     url: https://academusoft.unimonserrate.edu.co/
   - name: Reportes
     url: https://reportes.unimonserrate.edu.co/jasperserver/login.html
-  - name: Beta
-    url: https://beta.unimonserrate.edu.co/
+  #- name: Beta
+   # url: https://beta.unimonserrate.edu.co/
 
 assignees:
   - infraestructuraidt
