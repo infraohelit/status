@@ -83,7 +83,7 @@
     "timeMonth": 145,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2024-07-12": 32
+      "2024-07-12": 33
     }
   },
   {
@@ -129,8 +129,8 @@
     "slug": "revistas-y-publicaciones",
     "status": "up",
     "uptime": "64.95%",
-    "uptimeDay": "4.22%",
-    "uptimeWeek": "0.60%",
+    "uptimeDay": "4.24%",
+    "uptimeWeek": "0.61%",
     "uptimeMonth": "1.52%",
     "uptimeYear": "15.31%",
     "time": 585,
@@ -461,8 +461,8 @@
     "slug": "cau-cae",
     "status": "up",
     "uptime": "53.20%",
-    "uptimeDay": "4.22%",
-    "uptimeWeek": "0.60%",
+    "uptimeDay": "4.24%",
+    "uptimeWeek": "0.61%",
     "uptimeMonth": "1.52%",
     "uptimeYear": "0.00%",
     "time": 830,
@@ -1141,8 +1141,8 @@
     "slug": "academusoft",
     "status": "up",
     "uptime": "64.14%",
-    "uptimeDay": "3.87%",
-    "uptimeWeek": "0.55%",
+    "uptimeDay": "3.90%",
+    "uptimeWeek": "0.56%",
     "uptimeMonth": "1.51%",
     "uptimeYear": "13.77%",
     "time": 669,
@@ -1525,8 +1525,8 @@
     "slug": "reportes",
     "status": "up",
     "uptime": "25.28%",
-    "uptimeDay": "3.87%",
-    "uptimeWeek": "0.55%",
+    "uptimeDay": "3.90%",
+    "uptimeWeek": "0.56%",
     "uptimeMonth": "1.51%",
     "uptimeYear": "0.00%",
     "time": 513,
