@@ -14,9 +14,9 @@ sites:
   - name: Koha Administrativos
     url: https://unimonserrate-library-intra.ohelit.co/
   - name: Revistas y publicaciones
-    url: http://revistas.unimonserrate.edu.co/
+    url: https://revistas.unimonserrate.edu.co/
   - name: CAU / CAE
-    url: http://mesadeayuda.unimonserrate.edu.co/
+    url: https://mesadeayuda.unimonserrate.edu.co/
   # - name: Zeta
    # url: https://zeta.unimonserrate.edu.co/#/
   # - name: Evaluación Docente
