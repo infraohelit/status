@@ -47,7 +47,7 @@ status-website:
   cname: estado.unimonserrate.edu.co
   # baseUrl: /your-repo-name
   logoUrl: https://www.unimonserrate.edu.co/wp-content/uploads/2021/08/logo_png-2.png
-  name: Status IT services
+  name: Status IT services Unimonserrate
   introTitle: "Estado de servicios de TI Unimonserrate"
   introMessage: En este sitio encuentras la información de estado actual de todos nuestros servicios WEB públicos
   navbar:
