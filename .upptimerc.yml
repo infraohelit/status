@@ -5,7 +5,7 @@ repo: status # The name of this repository
 sites:
   - name: Sitio WEB Unimonserrate
     url: https://www.unimonserrate.edu.co/
-  - name: Olimpo 2.0
+  - name: Olimpo 2.0 
     url: https://unimonserrate.ohelit.co/
   # - name: UTM UNIMON 
   #  url: https://fw-sso.1902.fw.prod.hydra.sophos.com/0a27eaeab160237ba/webconsole/webpages/index.jsp?serial_number=X3100497JQYYQ5A&mode=6000&role=Super%20Administrator&page=ControlCenter&language=es-es&at=1721408815277&flc=1&page=ControlCenter#49511
