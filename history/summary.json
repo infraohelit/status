@@ -109,7 +109,7 @@
     "uptime": "66.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.07%",
+    "uptimeMonth": "93.20%",
     "uptimeYear": "15.21%",
     "time": 568,
     "timeDay": 1242,
@@ -441,11 +441,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mesadeayuda.unimonserrate.edu.co.ico",
     "slug": "cau-cae",
     "status": "up",
-    "uptime": "54.66%",
+    "uptime": "54.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.07%",
-    "uptimeYear": "7.64%",
+    "uptimeMonth": "93.20%",
+    "uptimeYear": "7.65%",
     "time": 646,
     "timeDay": 1313,
     "timeWeek": 626,
@@ -790,8 +790,7 @@
       "2023-08-16": 1440,
       "2023-08-15": 1440,
       "2023-08-14": 1440,
-      "2023-08-13": 1440,
-      "2023-08-12": 1440
+      "2023-08-13": 1440
     }
   },
   {
@@ -1097,7 +1096,7 @@
     "uptime": "65.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.31%",
+    "uptimeMonth": "92.44%",
     "uptimeYear": "14.18%",
     "time": 664,
     "timeDay": 348,
@@ -1442,8 +1441,7 @@
       "2023-08-16": 96,
       "2023-08-15": 96,
       "2023-08-14": 110,
-      "2023-08-13": 104,
-      "2023-08-12": 106
+      "2023-08-13": 104
     }
   },
   {
@@ -1455,8 +1453,8 @@
     "uptime": "27.72%",
     "uptimeDay": "96.76%",
     "uptimeWeek": "99.54%",
-    "uptimeMonth": "92.64%",
-    "uptimeYear": "7.61%",
+    "uptimeMonth": "92.78%",
+    "uptimeYear": "7.62%",
     "time": 1564,
     "timeDay": 5197,
     "timeWeek": 2103,
@@ -1804,8 +1802,7 @@
       "2023-08-16": 1440,
       "2023-08-15": 1440,
       "2023-08-14": 1440,
-      "2023-08-13": 1440,
-      "2023-08-12": 1440
+      "2023-08-13": 1440
     }
   }
 ]
