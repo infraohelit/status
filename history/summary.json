@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.20%",
-    "time": 2129,
-    "timeDay": 1701,
-    "timeWeek": 1976,
-    "timeMonth": 2590,
-    "timeYear": 2122,
+    "time": 2130,
+    "timeDay": 1852,
+    "timeWeek": 1939,
+    "timeMonth": 2586,
+    "timeYear": 2094,
     "dailyMinutesDown": {
       "2024-08-10": 38,
       "2024-08-03": 1255,
@@ -53,8 +53,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 162,
-    "timeDay": 71,
-    "timeWeek": 156,
+    "timeDay": 130,
+    "timeWeek": 149,
     "timeMonth": 168,
     "timeYear": 162,
     "dailyMinutesDown": {}
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.83%",
-    "time": 1784,
-    "timeDay": 992,
-    "timeWeek": 1004,
-    "timeMonth": 2192,
-    "timeYear": 1784,
+    "time": 1776,
+    "timeDay": 1061,
+    "timeWeek": 1044,
+    "timeMonth": 2194,
+    "timeYear": 1776,
     "dailyMinutesDown": {
       "2024-08-24": 28,
       "2024-08-17": 104
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.87%",
-    "time": 1188,
-    "timeDay": 1093,
-    "timeWeek": 891,
-    "timeMonth": 909,
-    "timeYear": 1188,
+    "time": 1184,
+    "timeDay": 849,
+    "timeWeek": 918,
+    "timeMonth": 911,
+    "timeYear": 1184,
     "dailyMinutesDown": {
       "2024-08-17": 104
     }
@@ -106,15 +106,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/revistas.unimonserrate.edu.co.ico",
     "slug": "revistas-y-publicaciones",
     "status": "up",
-    "uptime": "66.93%",
+    "uptime": "66.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "15.21%",
     "time": 584,
-    "timeDay": 446,
-    "timeWeek": 580,
-    "timeMonth": 597,
+    "timeDay": 450,
+    "timeWeek": 577,
+    "timeMonth": 595,
     "timeYear": 619,
     "dailyMinutesDown": {
       "2024-08-31": 26,
@@ -432,8 +432,7 @@
       "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
-      "2023-09-08": 1440,
-      "2023-09-07": 482
+      "2023-09-08": 1440
     }
   },
   {
@@ -442,16 +441,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mesadeayuda.unimonserrate.edu.co.ico",
     "slug": "cau-cae",
     "status": "up",
-    "uptime": "55.88%",
+    "uptime": "55.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "14.52%",
+    "uptimeYear": "14.76%",
     "time": 689,
-    "timeDay": 421,
-    "timeWeek": 525,
-    "timeMonth": 643,
-    "timeYear": 582,
+    "timeDay": 350,
+    "timeWeek": 516,
+    "timeMonth": 645,
+    "timeYear": 580,
     "dailyMinutesDown": {
       "2024-08-31": 26,
       "2024-08-24": 26,
@@ -768,8 +767,7 @@
       "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
-      "2023-09-08": 1440,
-      "2023-09-07": 1440
+      "2023-09-08": 1440
     }
   },
   {
@@ -779,17 +777,16 @@
     "slug": "aulas-virtuales",
     "status": "up",
     "uptime": "92.60%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.28%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.31%",
     "uptimeYear": "81.25%",
-    "time": 913,
-    "timeDay": 581,
-    "timeWeek": 870,
-    "timeMonth": 800,
+    "time": 914,
+    "timeDay": 650,
+    "timeWeek": 885,
+    "timeMonth": 805,
     "timeYear": 808,
     "dailyMinutesDown": {
-      "2024-09-05": 13,
       "2024-08-31": 74,
       "2024-08-24": 73,
       "2024-08-17": 73,
@@ -911,8 +908,7 @@
       "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
-      "2023-09-08": 1440,
-      "2023-09-07": 1440
+      "2023-09-08": 1440
     }
   },
   {
@@ -922,17 +918,16 @@
     "slug": "uvirtual",
     "status": "up",
     "uptime": "92.76%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.28%",
-    "uptimeYear": "81.59%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "81.60%",
     "time": 1273,
-    "timeDay": 747,
-    "timeWeek": 1313,
-    "timeMonth": 1004,
+    "timeDay": 739,
+    "timeWeek": 1317,
+    "timeMonth": 1008,
     "timeYear": 1247,
     "dailyMinutesDown": {
-      "2024-09-05": 13,
       "2024-08-31": 74,
       "2024-08-24": 73,
       "2024-08-17": 73,
@@ -1051,8 +1046,7 @@
       "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
-      "2023-09-08": 1440,
-      "2023-09-07": 1440
+      "2023-09-08": 1440
     }
   },
   {
@@ -1061,16 +1055,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/academusoft.unimonserrate.edu.co.ico",
     "slug": "academusoft",
     "status": "up",
-    "uptime": "66.17%",
+    "uptime": "66.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "14.70%",
-    "time": 616,
-    "timeDay": 356,
-    "timeWeek": 426,
-    "timeMonth": 472,
-    "timeYear": 573,
+    "uptimeYear": "14.72%",
+    "time": 617,
+    "timeDay": 496,
+    "timeWeek": 439,
+    "timeMonth": 476,
+    "timeYear": 571,
     "dailyMinutesDown": {
       "2024-08-02": 475,
       "2024-07-25": 65,
@@ -1383,8 +1377,7 @@
       "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
-      "2023-09-08": 1440,
-      "2023-09-07": 1440
+      "2023-09-08": 1440
     }
   },
   {
@@ -1393,16 +1386,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/reportes.unimonserrate.edu.co.ico",
     "slug": "reportes",
     "status": "up",
-    "uptime": "29.72%",
+    "uptime": "29.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.00%",
     "uptimeMonth": "98.53%",
-    "uptimeYear": "14.39%",
-    "time": 1527,
-    "timeDay": 464,
-    "timeWeek": 538,
+    "uptimeYear": "14.63%",
+    "time": 1517,
+    "timeDay": 460,
+    "timeWeek": 539,
     "timeMonth": 1625,
-    "timeYear": 1527,
+    "timeYear": 1517,
     "dailyMinutesDown": {
       "2024-08-31": 26,
       "2024-08-30": 377,
@@ -1724,8 +1717,7 @@
       "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
-      "2023-09-08": 1440,
-      "2023-09-07": 1440
+      "2023-09-08": 1440
     }
   }
 ]
