@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.20%",
-    "time": 2140,
-    "timeDay": 1280,
-    "timeWeek": 1036,
-    "timeMonth": 1741,
-    "timeYear": 2083,
+    "time": 2142,
+    "timeDay": 1681,
+    "timeWeek": 1186,
+    "timeMonth": 1722,
+    "timeYear": 2082,
     "dailyMinutesDown": {
       "2024-09-13": 31,
       "2024-08-10": 38,
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 164,
-    "timeDay": 168,
-    "timeWeek": 139,
-    "timeMonth": 163,
-    "timeYear": 164,
+    "time": 165,
+    "timeDay": 292,
+    "timeWeek": 165,
+    "timeMonth": 164,
+    "timeYear": 165,
     "dailyMinutesDown": {}
   },
   {
@@ -66,18 +66,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library.ohelit.co.ico",
     "slug": "koha-estudiantes",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "97.86%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.66%",
-    "time": 1645,
-    "timeDay": 841,
-    "timeWeek": 957,
-    "timeMonth": 1009,
-    "timeYear": 1645,
+    "uptime": "99.67%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.97%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.67%",
+    "time": 1637,
+    "timeDay": 678,
+    "timeWeek": 918,
+    "timeMonth": 1005,
+    "timeYear": 1637,
     "dailyMinutesDown": {
-      "2024-09-20": 12,
       "2024-09-14": 204,
       "2024-08-24": 28,
       "2024-08-17": 104
@@ -94,11 +93,11 @@
     "uptimeWeek": "97.95%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.69%",
-    "time": 1141,
-    "timeDay": 933,
-    "timeWeek": 874,
-    "timeMonth": 921,
-    "timeYear": 1141,
+    "time": 1140,
+    "timeDay": 994,
+    "timeWeek": 894,
+    "timeMonth": 925,
+    "timeYear": 1140,
     "dailyMinutesDown": {
       "2024-09-14": 206,
       "2024-08-17": 104
@@ -114,11 +113,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.74%",
     "uptimeMonth": "99.41%",
-    "uptimeYear": "18.81%",
-    "time": 601,
-    "timeDay": 492,
-    "timeWeek": 529,
-    "timeMonth": 660,
+    "uptimeYear": "18.83%",
+    "time": 602,
+    "timeDay": 680,
+    "timeWeek": 540,
+    "timeMonth": 663,
     "timeYear": 645,
     "dailyMinutesDown": {
       "2024-09-14": 127,
@@ -424,8 +423,7 @@
       "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
-      "2023-09-23": 1440,
-      "2023-09-22": 1440
+      "2023-09-23": 1440
     }
   },
   {
@@ -434,15 +432,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mesadeayuda.unimonserrate.edu.co.ico",
     "slug": "cau-cae",
     "status": "up",
-    "uptime": "56.60%",
+    "uptime": "56.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.33%",
     "uptimeMonth": "99.31%",
-    "uptimeYear": "18.80%",
-    "time": 684,
-    "timeDay": 521,
-    "timeWeek": 405,
-    "timeMonth": 585,
+    "uptimeYear": "18.82%",
+    "time": 685,
+    "timeDay": 525,
+    "timeWeek": 419,
+    "timeMonth": 588,
     "timeYear": 561,
     "dailyMinutesDown": {
       "2024-09-14": 168,
@@ -748,8 +746,7 @@
       "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
-      "2023-09-23": 1440,
-      "2023-09-22": 1440
+      "2023-09-23": 1440
     }
   },
   {
@@ -762,11 +759,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.55%",
     "uptimeMonth": "95.17%",
-    "uptimeYear": "84.79%",
-    "time": 983,
-    "timeDay": 870,
-    "timeWeek": 684,
-    "timeMonth": 894,
+    "uptimeYear": "84.80%",
+    "time": 984,
+    "timeDay": 956,
+    "timeWeek": 716,
+    "timeMonth": 897,
     "timeYear": 815,
     "dailyMinutesDown": {
       "2024-09-14": 751,
@@ -879,8 +876,7 @@
       "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
-      "2023-09-23": 1440,
-      "2023-09-22": 1440
+      "2023-09-23": 1440
     }
   },
   {
@@ -893,11 +889,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.55%",
     "uptimeMonth": "95.17%",
-    "uptimeYear": "85.13%",
-    "time": 1240,
-    "timeDay": 997,
-    "timeWeek": 950,
-    "timeMonth": 1036,
+    "uptimeYear": "85.15%",
+    "time": 1241,
+    "timeDay": 1281,
+    "timeWeek": 979,
+    "timeMonth": 1043,
     "timeYear": 1237,
     "dailyMinutesDown": {
       "2024-09-14": 751,
@@ -1007,8 +1003,7 @@
       "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
-      "2023-09-23": 1440,
-      "2023-09-22": 1440
+      "2023-09-23": 1440
     }
   },
   {
@@ -1019,13 +1014,13 @@
     "status": "up",
     "uptime": "66.52%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "70.31%",
+    "uptimeWeek": "71.33%",
     "uptimeMonth": "93.00%",
-    "uptimeYear": "18.22%",
+    "uptimeYear": "18.24%",
     "time": 603,
-    "timeDay": 182,
-    "timeWeek": 182,
-    "timeMonth": 407,
+    "timeDay": 589,
+    "timeWeek": 250,
+    "timeMonth": 405,
     "timeYear": 564,
     "dailyMinutesDown": {
       "2024-09-16": 42,
@@ -1328,8 +1323,7 @@
       "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
-      "2023-09-23": 1440,
-      "2023-09-22": 1440
+      "2023-09-23": 1440
     }
   },
   {
@@ -1338,16 +1332,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/reportes.unimonserrate.edu.co.ico",
     "slug": "reportes",
     "status": "up",
-    "uptime": "30.92%",
+    "uptime": "30.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.90%",
     "uptimeMonth": "98.32%",
-    "uptimeYear": "18.68%",
-    "time": 1362,
-    "timeDay": 485,
-    "timeWeek": 526,
-    "timeMonth": 856,
-    "timeYear": 1362,
+    "uptimeYear": "18.70%",
+    "time": 1356,
+    "timeDay": 657,
+    "timeWeek": 548,
+    "timeMonth": 858,
+    "timeYear": 1356,
     "dailyMinutesDown": {
       "2024-09-14": 111,
       "2024-09-13": 55,
@@ -1657,8 +1651,7 @@
       "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
-      "2023-09-23": 1440,
-      "2023-09-22": 1440
+      "2023-09-23": 1440
     }
   }
 ]
