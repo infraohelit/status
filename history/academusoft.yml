@@ -1,7 +1,7 @@
 url: https://academusoft.unimonserrate.edu.co/
-status: up
-code: 200
-responseTime: 125
-lastUpdated: 2024-09-29T23:16:59.357Z
+status: down
+code: 504
+responseTime: 10386
+lastUpdated: 2024-09-30T16:15:46.363Z
 startTime: 2022-02-07T15:01:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
