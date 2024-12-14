@@ -1,7 +1,7 @@
 url: https://reportes.unimonserrate.edu.co/jasperserver/login.html
-status: down
-code: 502
-responseTime: 7406
-lastUpdated: 2024-12-14T06:23:57.384Z
+status: up
+code: 200
+responseTime: 640
+lastUpdated: 2024-12-14T19:00:40.933Z
 startTime: 2022-02-09T19:49:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
