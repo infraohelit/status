@@ -1,22 +1,20 @@
 [
   {
-    "name": "OH - IP_PUBLIC",
-    "url": "https://186.155.9.52",
-    "icon": "https://icons.duckduckgo.com/ip3/186.155.9.52.ico",
-    "slug": "oh-ip-public",
-    "status": "down",
-    "uptime": "18.14%",
-    "uptimeDay": "18.14%",
-    "uptimeWeek": "18.14%",
-    "uptimeMonth": "18.14%",
-    "uptimeYear": "18.14%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-03-17": 0
-    }
+    "name": "UTM - OHELIT",
+    "url": "https://remote2.ohelit.co/",
+    "icon": "https://icons.duckduckgo.com/ip3/remote2.ohelit.co.ico",
+    "slug": "utm-ohelit",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 310,
+    "timeDay": 310,
+    "timeWeek": 310,
+    "timeMonth": 310,
+    "timeYear": 310,
+    "dailyMinutesDown": {}
   }
 ]
