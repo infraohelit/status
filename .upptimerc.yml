@@ -1,50 +1,13 @@
-# Change these first
-# owner: infraohelit # Your GitHub organization or username, where this repository lives
-# repo: status # The name of this repository
-# repository: infraohelit/status
+# Configuración de Upptime
 
 sites:
-  #- name: OH - IP_PUBLIC
-  #  url: https://186.155.9.52
-  #- name: OH - Website
-  #  url: https://www.ohelit.co/
-  
   - name: UTM - OHELIT 
     url: https://remote2.ohelit.co/
-  - name: OHVM-SERVER-PUBLIC
-  
-  #  url: https://servicedesk.ohelit.co
-  #- name: OHVM -  Administrativos
-  #  url: https://unimonserrate-library-intra.ohelit.co/
-  
-  #  __dangerous__insecure: true
-  #- name: Aulas virtuales
-  #  url: https://aulasvirtuales.unimonserrate.edu.co/
-  #  __dangerous__insecure: true
-  #- name: Uvirtual
-  #  url: https://uvirtual.unimonserrate.edu.co/
-  #  __dangerous__insecure: true
 
+status-website: false # No se generará una página externa
 
-#assignees:
-#  - infraohelit
+# Opcional: Si deseas agregar más servicios en el futuro, descomenta y ajusta:
+# - name: Otro servicio
+#   url: https://otro-servicio.com
 
-#status-website: "https://remote2.ohelit.co"
-status-website: false
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # theme: ocean
-  # cname: https://remote2.ohelit.co
-  # baseUrl: /your-repo-name
-  # logoUrl: https://ohelit.co/wp-content/uploads/2019/08/Logo-Ohelit-BW-1024x351.png
-  # name: Status IT services ohelit
-  # introTitle: "Estado de servicios de TI OHELIT"
-  # introMessage: En este sitio encuentras la información de estado actual de todos nuestros servicios WEB públicos
-  # navbar:
-  #  - title: Status
-  #    href: /
-  #  - title: GitHub
-  #    href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+# Elimina líneas comentadas innecesarias para evitar conflictos.
