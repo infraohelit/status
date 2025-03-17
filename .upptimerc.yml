@@ -1,60 +1,46 @@
 # Change these first
-owner: infraestructuraidt # Your GitHub organization or username, where this repository lives
+owner: infraohelit # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
 sites:
-  - name: Sitio WEB Unimonserrate
-    url: https://www.unimonserrate.edu.co/
-  - name: Olimpo 2.0 
-    url: https://unimonserrate.ohelit.co/
-  # - name: UTM UNIMON 
-  #  url: https://fw-sso.1902.fw.prod.hydra.sophos.com/0a27eaeab160237ba/webconsole/webpages/index.jsp?serial_number=X3100497JQYYQ5A&mode=6000&role=Super%20Administrator&page=ControlCenter&language=es-es&at=1721408815277&flc=1&page=ControlCenter#49511
-  - name: Koha Estudiantes
-    url: https://unimonserrate-library.ohelit.co/
-  - name: Koha Administrativos
+  - name: OH - IP_PUBLIC
+    url: https://186.155.9.52
+  - name: OH - Website
+    url: https://www.ohelit.co/
+  - name: UTM - OHELIT 
+    url: https://remote2.ohelit.co/
+  - name: OHVM SERVER - PUBLIC
+    url: https://servicedesk.ohelit.co
+  - name: OHVM -  Administrativos
     url: https://unimonserrate-library-intra.ohelit.co/
-  - name: Revistas y publicaciones
-    url: https://revistas.unimonserrate.edu.co/
-  - name: CAU / CAE
-    url: https://mesadeayuda.unimonserrate.edu.co/
-  # - name: Zeta
-   # url: https://zeta.unimonserrate.edu.co/#/
-  # - name: Evaluación Docente
-   # url: https://evaluaciondocente.unimonserrate.edu.co/Praxis-war/faces/Login.xhtml
-  # - name: Chat Unimonserrate
-   # url: https://chat.unimonserrate.edu.co/home
-    __dangerous__insecure: true
-  - name: Aulas virtuales
-    url: https://aulasvirtuales.unimonserrate.edu.co/
-    __dangerous__insecure: true
-  - name: Uvirtual
-    url: https://uvirtual.unimonserrate.edu.co/
-    __dangerous__insecure: true
-  - name: Academusoft
-    url: https://academusoft.unimonserrate.edu.co/
-  - name: Reportes
-    url: https://reportes.unimonserrate.edu.co/jasperserver/login.html
-  # - name: Beta
-   # url: https://beta.unimonserrate.edu.co/
+  
+  #  __dangerous__insecure: true
+  #- name: Aulas virtuales
+  #  url: https://aulasvirtuales.unimonserrate.edu.co/
+  #  __dangerous__insecure: true
+  #- name: Uvirtual
+  #  url: https://uvirtual.unimonserrate.edu.co/
+  #  __dangerous__insecure: true
+
 
 assignees:
-  - infraestructuraidt
+  - infraohelit
 
-status-website:
+##status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  theme: ocean
-  cname: estado.unimonserrate.edu.co
+  ##theme: ocean
+  ##cname: estado.unimonserrate.edu.co
   # baseUrl: /your-repo-name
-  logoUrl: https://www.unimonserrate.edu.co/wp-content/uploads/2021/08/logo_png-2.png
-  name: Status IT services Unimon
-  introTitle: "Estado de servicios de TI Unimonserrate"
-  introMessage: En este sitio encuentras la información de estado actual de todos nuestros servicios WEB públicos
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  ##logoUrl: https://www.unimonserrate.edu.co/wp-content/uploads/2021/08/logo_png-2.png
+  ##name: Status IT services Unimon
+  ##introTitle: "Estado de servicios de TI Unimonserrate"
+  ##introMessage: En este sitio encuentras la información de estado actual de todos nuestros servicios WEB públicos
+  ##navbar:
+  ##  - title: Status
+  ##    href: /
+  ##  - title: GitHub
+  ##    href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
