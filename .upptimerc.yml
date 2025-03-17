@@ -1,6 +1,7 @@
 # Change these first
 owner: infraohelit # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
+repository: infraohelit/status
 
 sites:
   - name: OH - IP_PUBLIC
@@ -26,7 +27,7 @@ sites:
 assignees:
   - infraohelit
 
-##status-website:
+status-website: "https://servicedesk.ohelit.co"
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   ##theme: ocean
