@@ -11,7 +11,7 @@ sites:
   
   - name: UTM - OHELIT 
     url: https://remote2.ohelit.co/
-  - name: OHVM SERVER - PUBLIC
+  - name: OHVM-SERVER-PUBLIC
   
   #  url: https://servicedesk.ohelit.co
   #- name: OHVM -  Administrativos
