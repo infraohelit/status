@@ -9,7 +9,6 @@ Este repositorio contiene el monitor de disponibilidad de [OHELIT](https://oheli
 
 ## 🌐 Estado de Servicios Monitoreados
 
-| Servicio | Estado | Historial | Tiempo de Respuesta | Disponibilidad |
-|----------|--------|----------|---------------------|----------------|
+| Servicio                                                                                                                         | Estado             | Historial                                                                              | Tiempo de Respuesta                                                                                                                                   | Disponibilidad                                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------- | ------------------ | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | <img alt="" src="https://icons.duckduckgo.com/ip3/remote2.ohelit.co.ico" height="13"> [UTM - OHELIT](https://remote2.ohelit.co/) | 🟩 **Operacional** | [Historial](https://github.com/infraohelit/status/commits/HEAD/history/utm-ohelit.yml) | ![Response Time](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/infraohelit/status/HEAD/api/utm-ohelit/response-time-day.json) | ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/infraohelit/status/HEAD/api/utm-ohelit/uptime-day.json) |
-
