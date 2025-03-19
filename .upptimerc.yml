@@ -1,3 +1,10 @@
+# Configuración de Upptime
+# Propietario del repositorio
+owner: infraohelit
+repo: status
+repository: infraohelit/status
+
+# Sitios a monitorear
 sites:
   - name: OH-UTM
     url: https://remote2.ohelit.co/
@@ -6,4 +13,8 @@ sites:
     url: https://servicedesk.ohelit.co/
 
   - name: OH-NAS
-    url: https://files.ohelit.co/
+    url: https://files.ohelit.co/ui/sessions/signin
+
+# Deshabilita la página de estado en GitHub Pages
+status-website: false
+
