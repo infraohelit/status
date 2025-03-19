@@ -1,13 +1,7 @@
-# Configuración de Upptime
-
 sites:
-  - name: UTM - OHELIT 
+  - name: OH-UTM
     url: https://remote2.ohelit.co/
 
-status-website: false # No se generará una página externa
+  - name: OH-DOCKER-PUBLIC
+    url: https://servicedesk.ohelit.co/
 
-# Opcional: Si deseas agregar más servicios en el futuro, descomenta y ajusta:
-# - name: Otro servicio
-#   url: https://otro-servicio.com
-
-# Elimina líneas comentadas innecesarias para evitar conflictos.
