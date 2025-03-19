@@ -5,3 +5,5 @@ sites:
   - name: OH-DOCKER-PUBLIC
     url: https://servicedesk.ohelit.co/
 
+  - name: OH-NAS
+    url: https://files.ohelit.co/
