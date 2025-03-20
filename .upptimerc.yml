@@ -13,7 +13,7 @@ sites:
     url: https://servicedesk.ohelit.co/
 
   - name: OH-NAS
-    url: https://files.ohelit.co/ui/sessions/signin
+    url: https://files.ohelit.co/
 
 # Deshabilita la página de estado en GitHub Pages
 status-website: false
