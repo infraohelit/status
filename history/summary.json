@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 349,
-    "timeDay": 349,
-    "timeWeek": 349,
-    "timeMonth": 349,
-    "timeYear": 349,
+    "time": 354,
+    "timeDay": 354,
+    "timeWeek": 354,
+    "timeMonth": 354,
+    "timeYear": 354,
     "dailyMinutesDown": {}
   },
   {
@@ -28,16 +28,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 680,
-    "timeDay": 680,
-    "timeWeek": 680,
-    "timeMonth": 680,
-    "timeYear": 680,
+    "time": 691,
+    "timeDay": 691,
+    "timeWeek": 691,
+    "timeMonth": 691,
+    "timeYear": 691,
     "dailyMinutesDown": {}
   },
   {
     "name": "OH-NAS",
-    "url": "https://files.ohelit.co/ui/sessions/signin",
+    "url": "https://files.ohelit.co/",
     "icon": "https://icons.duckduckgo.com/ip3/files.ohelit.co.ico",
     "slug": "oh-nas",
     "status": "down",
@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-20": 182,
+      "2025-03-20": 191,
       "2025-03-19": 219
     }
   }
