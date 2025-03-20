@@ -5,5 +5,13 @@ timezone: America/Bogota
 
 # Definir el servicio a monitorear
 checks:
-  - name: UTM - OHELIT
+  - name: oh-utm
     url: https://remote2.ohelit.co
+# Definir el servicio a monitorear
+checks:
+  - name: oh-docker-public
+    url: http://servicedesk.ohelit.co
+# Definir el servicio a monitorear
+checks:
+  - name: oh-nas
+    url: https://files.ohelit.co
