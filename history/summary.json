@@ -4,10 +4,10 @@
     "url": "https://remote2.ohelit.co/",
     "icon": "https://icons.duckduckgo.com/ip3/remote2.ohelit.co.ico",
     "slug": "oh-utm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 359,
@@ -15,14 +15,16 @@
     "timeWeek": 335,
     "timeMonth": 359,
     "timeYear": 359,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-31": 1
+    }
   },
   {
     "name": "OH-DOCKER-PUBLIC",
     "url": "https://servicedesk.ohelit.co/",
     "icon": "https://icons.duckduckgo.com/ip3/servicedesk.ohelit.co.ico",
     "slug": "oh-docker-public",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 594,
     "timeMonth": 674,
     "timeYear": 674,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-31": 0
+    }
   },
   {
     "name": "OH-NAS",
@@ -52,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-31": 194,
+      "2025-03-31": 1238,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
