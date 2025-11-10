@@ -1,7 +1,7 @@
 url: https://servicedesk.ohelit.co/
-status: down
-code: 500
-responseTime: 773
-lastUpdated: 2025-11-10T18:49:41.171Z
+status: up
+code: 200
+responseTime: 846
+lastUpdated: 2025-11-10T19:19:57.213Z
 startTime: 2025-03-19T16:50:44.052Z
 generator: Upptime <https://github.com/upptime/upptime>
