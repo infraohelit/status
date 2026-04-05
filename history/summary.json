@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/remote2.ohelit.co.ico",
     "slug": "oh-utm",
     "status": "down",
-    "uptime": "86.07%",
+    "uptime": "85.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "85.89%",
+    "uptimeYear": "85.61%",
     "time": 351,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 349,
     "dailyMinutesDown": {
-      "2026-04-04": 123,
+      "2026-04-05": 144,
+      "2026-04-04": 1440,
       "2026-04-03": 1440,
       "2026-04-02": 1440,
       "2026-04-01": 1440,
@@ -105,15 +106,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/servicedesk.ohelit.co.ico",
     "slug": "oh-docker-public",
     "status": "up",
-    "uptime": "79.62%",
+    "uptime": "79.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.89%",
     "uptimeYear": "79.14%",
-    "time": 1416,
-    "timeDay": 563,
-    "timeWeek": 598,
-    "timeMonth": 1037,
+    "time": 1414,
+    "timeDay": 478,
+    "timeWeek": 557,
+    "timeMonth": 1034,
     "timeYear": 1488,
     "dailyMinutesDown": {
       "2026-03-25": 371,
@@ -248,7 +249,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-04": 123,
+      "2026-04-05": 144,
+      "2026-04-04": 1440,
       "2026-04-03": 1440,
       "2026-04-02": 1440,
       "2026-04-01": 1440,
@@ -611,8 +613,7 @@
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
-      "2025-04-06": 1440,
-      "2025-04-05": 1440
+      "2025-04-06": 1440
     }
   }
 ]
